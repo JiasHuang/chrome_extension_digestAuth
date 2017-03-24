@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "login",
+    "description": "login",
+    "version": "0.1",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions" : [
+        "cookies",
+        "https://swfarmhub.lge.com:8100/*"
+    ]
+}
