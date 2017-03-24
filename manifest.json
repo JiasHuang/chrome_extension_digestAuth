@@ -8,6 +8,6 @@
     },
     "permissions" : [
         "cookies",
-        "https://swfarmhub.lge.com:8100/*"
+        "https://*/*"
     ]
 }
