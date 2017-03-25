@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "digestAuth",
-    "description": "digestAuth",
+    "name": "DigestAuth",
+    "description": "DigestAuth",
     "version": "0.1",
     "browser_action": {
         "default_popup": "popup.html"
