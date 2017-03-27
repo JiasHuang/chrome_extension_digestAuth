@@ -9,5 +9,6 @@
     "permissions" : [
         "cookies",
         "https://*/*"
-    ]
+    ],
+    "options_page": "popup.html"
 }
